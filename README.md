@@ -10,9 +10,9 @@ The dataset is limited to adult arrests (individuals 18+) and captures key infor
 ## This repository contains two folders:
 
 ### Data Cleaning, Exploration, and Visualization:
-- **Arrests Chicago Data Cleaning.ipynb** = Code used during the data cleaning process
+- **Arrests Chicago Data Cleaning.ipynb** = Code used during the data cleaning process.
 - **Arrests Chicago EDA and Visualization.ipynb** = Code used during the exploratory data analysis (EDA) and visualization process to address critical questions and visualize findings from the dataset.
 
 ### Dataset Files:
-- **Arrests.csv** = The original raw dataset. Due to GitHub’s 25MB file size limit, this file could not be uploaded directly. It can be accessed and downloaded from the official source at https://catalog.data.gov/dataset/arrests
+- **Arrests.csv** = The original raw dataset. Due to GitHub’s 25MB file size limit, this file could not be uploaded directly. It can be accessed and downloaded from the official source at https://catalog.data.gov/dataset/arrests.
 - **Arrests Cleaned.csv** = The cleaned and processed dataset generated using the code from Arrests Chicago Data Cleaning.ipynb. Note that this file is compressed in .csv.gz format to reduce file size for GitHub's upload limit.
